@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["NgTzeYang"]
   s.email       = ["ngty77@gmail.com"]
-  s.homepage    = "http://github.com/ngty/sourcify"
+  s.homepage    = "http://github.com/CalculatedContent/sourcify"
   s.summary     = %q{Workarounds before ruby-core officially supports Proc#to_source (& friends)}
   s.description = %q{}
 
