@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'bacon'
   s.add_development_dependency 'pry'
 
+  #
   # ParseTree (better performance + dynamic goodness, but not supported on java & 1.9.*),
   # optional for any 1.8.*.
   #s.add_dependency "ParseTree", ">= 3.0.6"
